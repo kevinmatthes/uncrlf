@@ -47,9 +47,16 @@
 ### Added
 
 * add GPL 2.0 license
+* build instruction:  entire compilation routine
+* build instruction:  installation
+* build instruction:  repository manual
+* create `.gitignore`
+* create list of authors
+* create project meta data for repository manual
 * create repository README
 * create this changelog
 * create this repository
+* create `uncrlf.l`
 * submodule `docs-snippets`
 * submodule `routines`
 * submodule `untab`
