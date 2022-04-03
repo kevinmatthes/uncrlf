@@ -48,7 +48,7 @@
 
 % Software.
 octave.in   = 'flex-gcc.m';
-octave.out  = './untab';
+octave.out  = './uncrlf';
 octave.self = ' octave ';
 octave.call = [octave.self ' ' octave.in];
 
