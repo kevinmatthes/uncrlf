@@ -50,12 +50,12 @@
 compiler.flags  = ' -Wall -Werror -Wextra -Wno-unused-function -Wpedantic ';
 compiler.in     = '*.c';
 compiler.link   = ' -lfl ';
-compiler.out    = 'untab';
+compiler.out    = 'uncrlf';
 compiler.self   = ' gcc ';
 compiler.call   = [compiler.self ' ' compiler.flags ' ' compiler.in];
 compiler.call   = [compiler.call ' ' compiler.link ' -o ' compiler.out];
 
-scangen.in      = 'untab.l';
+scangen.in      = 'uncrlf.l';
 scangen.out     = 'lex.yy.c';
 scangen.self    = ' flex ';
 scangen.call    = [scangen.self ' ' scangen.in];
