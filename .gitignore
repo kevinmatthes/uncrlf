@@ -42,7 +42,7 @@
 
 # Build artifacts.
 lex.*.c
-untab
+uncrlf
 
 # Documentation artifacts.
 *.pdf
