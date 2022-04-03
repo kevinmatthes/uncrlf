@@ -44,6 +44,12 @@
 
 ## [Unreleased]
 
+## [1.0] -- 2022-04-03
+
+### Removed
+
+* submodule `untab`
+
 ## [0.1] -- 2022-04-03
 
 ### Added
