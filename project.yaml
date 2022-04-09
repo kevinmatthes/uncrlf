@@ -45,7 +45,7 @@ title:
   - uncrlf
 
 subtitle:
-  - A Simple Lexer which Removes Carriage Return Linebreaks from a Given File
+  - A Simple Lexer which Removes Carriage Return Line Breaks from a Given File
 
 ################################################################################
 ---
