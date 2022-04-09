@@ -98,7 +98,7 @@ repository.
 ## Description
 
 This repository provides a simple lexer in order to replace carriage return
-linebreaks from input source files with simple newline whitespaces.  It can be
+line breaks from input source files with simple newline whitespaces.  It can be
 compiled by invoking the GNU Octave script `flex-gcc.m` in a terminal:
 
 ```
