@@ -43,7 +43,7 @@
 
 ## Summary
 
-A simple lexer which removes carriage return linebreaks from a given file.
+A simple lexer which removes carriage return line breaks from a given file.
 
 ## License
 
