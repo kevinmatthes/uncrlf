@@ -45,7 +45,7 @@
  * \brief   The main function of this lexer.
  * \return  0x0
  *
- * This lexer will replace any carriage return linebreaks with simple newline
+ * This lexer will replace any carriage return line breaks with simple newline
  * whitespaces.
  *
  * This lexer always returns with 0x0.
